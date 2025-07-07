@@ -102,7 +102,6 @@ print("Predicted bike count:", count_pred)
 │
 ├── 📄 train.csv
 ├── 📄 test.csv
-├── 📄 bike_final_model.pkl
 ├── 📄 BS1.ipynb
 ├── 📄 README.md
 
